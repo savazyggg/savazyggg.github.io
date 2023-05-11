@@ -1,7 +1,8 @@
 var youtube = "";
 var twitter = "";
 var password = "";
-var notion = "younjilee.notion.site";
+var notion =
+  "https://blossom-caboc-406.notion.site/747aef2417084f708e8e8db6e69a2347";
 var velog = "https://velog.io/@savazy_gg";
 var github = "https://github.com/savazyggg";
 var email = "mailto:younji0715@gmail.com";
@@ -10,23 +11,24 @@ const portfolio =
 
 whois = [
   "<br>",
-  "Hey, I'm Forrest!👋",
-  "I'm a software developer and content creator, who builds engaging websites like this one",
-  "and makes YouTube videos about computer science & software engineering.",
-  "After graduating with a Bachelor's in Computer Science, I worked professionally",
-  "as a software engineer building enterprise web applications for Fortune 500 companies.",
-  "While doing all of that, I documentned my coding journey on YouTube - trying to enlighten",
-  "the next generation of developers and help them navigate the crazy world that is software",
-  "development & computer science.",
-  "Before I knew it, that online presence took on a life of its own, to the point where I knew",
-  "I needed to make the jump from software engineering to full time content creator, and it's",
-  "the best decision I ever made.",
-  "Now, I make videos about creating cool shit like this terminal website, and hosting my",
-  "podcast 'Decoded w/ Forrest Knight.' What most people don't know, and will only know",
-  "because they're reading this right now, is that I also run a creative & media agency.",
-  "We partner with clients to drive their business outcomes using modern marketing strategies.",
+  "안녕하세요!👋",
+  "프론트 엔드 개발자, ",
+  "DO! 실행력있는, ",
+  "HOW? 문제는 파고드는, ",
+  "WHY? 호기심 많은, 이윤지 입니다.",
   "<br>",
-  "To see more detail, run:",
+  "이전에 브랜드매니저로 근무하며 자사몰 관련하여 개발자님과 소통한 경험이 있습니다.",
+  "해당 과정에서 개발자님이 하던 기술적 고민, 로직, 성장 등에 흥미를 느끼며 개발자의 길에 대해 생각해보게 됐습니다.",
+  "<br>",
+  "일단 다양한 기술스택을 알아가며 끝없이 배워가는 과정이 즐거울 것 같았고,",
+  "다양한 사람들과 하나의 목표를 향해 나아가며 프로젝트의 성과를 내는 것이 가치있다고 느꼈습니다.",
+  "또한 복합적으로 얽힌 문제의 실타래를 풀며 깊게 고찰하고 해결해 나가는 과정이 재밌을 것 같았습니다.",
+  "마지막으로 지식을 공유하고자 하는 문화가 인상 깊었습니다. 저도 새롭게 안 사실, 도움이 될 것 같은 지식들을 듣고 말하는 것을 좋아하거든요.",
+  "이러한 이유로 프론트 엔지니어의 길을 걷게 되었는데요.",
+  "<br>",
+  "방대한 프로그래밍 분야를 공부하기위해 제가 어떤 노력을 했고, 어떠한 신념으로 다가가고자 하며, 어떻게 성장을 할지 흥미로우신가요?",
+  "<br>",
+  "To see more detail, input:",
   '<span class="command">npm run start</span>',
   "<br>",
 ];
@@ -51,10 +53,10 @@ social = [
 //포트폴리오 url
 projects = [
   "<br>",
-  "Still curating... most projects are on GitHub, or confidential.",
+  "Still curating... most projects are on GitHub, or confidential. :)",
   "But still want to see more,",
   "<br>",
-  "To see more detail, run:",
+  "To see more detail, input:",
   '<span class="command">npm run start</span>',
   "<br>",
 ];
@@ -66,7 +68,7 @@ help = [
   '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           For a list of available commands',
-  '<span class="command">email</span>          email me. younji0715@gmail.com',
+  '<span class="command">email</span>          younji0715@gmail.com',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">banner</span>         Display the header',
   "<br>",
@@ -95,7 +97,7 @@ banner = [
   "      y:::::y                                                             j::::j                                                                        ",
   "     y:::::y                                                    jjjj      j::::j                                                                        ",
   "    y:::::y                                                    j::::jj   j:::::j    2023 -v                                                     ",
-  "   y:::::y                                                     j::::::jjj::::::j                                                                        ",
+  "   y:::::y                                                     j::::::jjj::::::j    *origin templet from FK code                                                                    ",
   "  yyyyyyy                                                       jj::::::::::::j                                                                         ",
   "                                                                  jjj::::::jjj                                                                          ",
   "                                                                     jjjjjj                                                                             ",

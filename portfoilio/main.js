@@ -19,6 +19,10 @@ console.log(
   "%cyou are interedted in ME!😁",
   "color: #04ff00; font-weight: bold; font-size: 24px;"
 );
+console.log(
+  "%cnpm run start를 화면에 입력해주세요. :)",
+  "color: white; font-weight: bold; font-size: 10px;"
+);
 
 //init
 textarea.value = "";
@@ -125,6 +129,7 @@ function commander(cmd) {
       break;
     case "npm run start":
       addLine("Opening Portfolio...", "color2", 0);
+      addLine("Compiled successfully!", "command", 0);
       newTab(portfolio);
       break;
     default:
