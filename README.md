@@ -1,10 +1,10 @@
 # savazyggg.github.io
 
-https://savazyggg.github.io/cavas%20game/
-https://savazyggg.github.io/blurryLoding
-https://savazyggg.github.io/cardplay
-https://savazyggg.github.io/doublegame
-https://savazyggg.github.io/liveuserfilter
-https://savazyggg.github.io/mememaker
-https://savazyggg.github.io/randomChoice
-https://savazyggg.github.io/verticalslider
+https://savazyggg.github.io/cavas%20game/ </br>
+https://savazyggg.github.io/blurryLoding </br>
+https://savazyggg.github.io/cardplay </br>
+https://savazyggg.github.io/doublegame </br>
+https://savazyggg.github.io/liveuserfilter </br>
+https://savazyggg.github.io/mememaker </br>
+https://savazyggg.github.io/randomChoice </br>
+https://savazyggg.github.io/verticalslider </br>
