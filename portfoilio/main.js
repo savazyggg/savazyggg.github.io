@@ -129,7 +129,7 @@ function commander(cmd) {
       break;
     case "npm run start":
       addLine("Opening Portfolio...", "color2", 0);
-      addLine("Compiled successfully!", "command", 0);
+      addLine("Compiled successfully!", "index", 0);
       newTab(portfolio);
       break;
     default:
